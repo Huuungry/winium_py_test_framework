@@ -3,7 +3,7 @@ import unittest
 
 import HTMLTestRunner
 
-from Test1 import Test_DSG
+from SmokeTestSet import Test_DSG
 
 # get the directory path to output report file
 dir = os.getcwd()
